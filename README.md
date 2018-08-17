@@ -1,3 +1,3 @@
 # Chollima
 
-Web Site of the Chollima bot
+Website of the Chollima bot
